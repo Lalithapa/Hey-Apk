@@ -27,8 +27,8 @@ export function ThemedText({
         type === 'subtitle' ? styles.subtitle : undefined,
         type === 'link' ? styles.link : undefined,
         style,
-      ]}
-      {...rest}
+      ]} 
+      {...rest} sdfsdfsdfs
     />
   );
 }
